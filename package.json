@@ -1,0 +1,11 @@
+{
+  "name": "txt-auto-spacer",
+  "version": "1.0.0",
+  "description": "Auto format TXT files so lines are no longer than a given maximum length, without breaking mid-word.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main"
+  },
+  "author": "Craig Wilson <wilsocr88@gmail.com>",
+  "license": "MIT"
+}
