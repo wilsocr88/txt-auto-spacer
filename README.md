@@ -14,6 +14,10 @@ Into this:
 
 ![lines at 80 characters long](short.png "Lines at 80 characters long")
 
+## Requirements 
+
+NodeJS/NPM/NPX
+
 ## Configuration
 
 The `config.js` file is where you set the relative path of your **input file** and **output file**.
